@@ -1,0 +1,13 @@
+{
+  "name": "githubNotetaker",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "node-fetch": "^1.3.3",
+    "react-native": "^0.13.2",
+    "whatwg-fetch": "^0.10.0"
+  }
+}
