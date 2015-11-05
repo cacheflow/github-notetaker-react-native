@@ -1,4 +1,4 @@
-![Github-Notetaker-React-Native](github-note-image-png)
+![Github-Notetaker-React-Native](./github-note-image-png)
 
 Github-notetaking app is a small React native app that fetches a person's Github info and allows you to annonate it. 
 
